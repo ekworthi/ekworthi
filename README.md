@@ -18,7 +18,7 @@ Feel free to reach out! I’m open to opportunities and collaborations.
 ![Professional Headshot](20241011_192753.jpg)
 
 ## Resume
-[Download My Resume (PDF)]("C:\Users\eli12\Downloads\EliWorthingResume.docx.pdf")
+[Download My Resume (PDF)](EliWorthingResume.docx.pdf)
 
 ## Projects Showcase
 Here are some of the projects I’m proud of:
