@@ -23,11 +23,8 @@ Feel free to reach out! I’m open to opportunities and collaborations.
 ## Projects Showcase
 Here are some of the projects I’m proud of:
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [Project Name 1](https://github.com/ekworthi/planets)
 A brief description of the project, its purpose, and key technologies used.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-Another brief description of a project showcasing your skills and interests.
 
 ### [DATA1201 Repository](https://github.com/ekworthi/DATA1201)
 Highlight the data analysis work done in this repository, including insights or key learnings.
