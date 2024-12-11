@@ -24,10 +24,10 @@ Feel free to reach out! I’m open to opportunities and collaborations.
 Here are some of the projects I’m proud of:
 
 ### [Project Name 1](https://github.com/ekworthi/planets)
-A brief description of the project, its purpose, and key technologies used.
+The planets repository is a repository that I worked on in a lab during this data science class that tought me about commiting changes in git.
 
 ### [DATA1201 Repository](https://github.com/ekworthi/DATA1201)
-Highlight the data analysis work done in this repository, including insights or key learnings.
+This repository holds all of the linux, bash, markdown, terminall code, and git work over this course.
 
 ---
 Feel free to explore my repositories and get in touch if you’d like to know more about my work or have a project in mind!
