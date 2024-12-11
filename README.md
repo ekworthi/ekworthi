@@ -1,76 +1,36 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Welcome to My Portfolio Repository
 
-<br/>
+## About Me
+Hello! I'm Eli Worthing, a third eyar data science student with a passion for creating innovative solutions and learning new technologies. My goal is to develop impactful software that improves lives and contributes to meaningful projects. Outside of coding, I enjoy playing guitar and boxing.
 
-<center>
+## Skills
+- **Programming Languages:** Python, Java, SQL, html, php
+- **Tools & Technologies:** Git, Linux, Bash
+- **Other Skills:** Critical Thinking, Problem Solving, Team Collaboration
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+## Contact Me
+Feel free to reach out! I’m open to opportunities and collaborations.
 
-</center>
+- **Email:** ekworthi@mtu.edu
+- **GitHub:** https://github.com/ekworthi
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## Professional Picture
+![Professional Headshot]("C:\Users\eli12\Downloads\20241011_192753.jpg")
 
-## TL;DR
+## Resume
+[Download My Resume (PDF)]("C:\Users\eli12\Downloads\EliWorthingResume.docx.pdf")
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## Projects Showcase
+Here are some of the projects I’m proud of:
 
-## Built With
+### [Project Name 1](https://github.com/yourusername/project1)
+A brief description of the project, its purpose, and key technologies used.
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+### [Project Name 2](https://github.com/yourusername/project2)
+Another brief description of a project showcasing your skills and interests.
 
-This project was built using these technologies.
+### [DATA1201 Repository](https://github.com/ekworthi/DATA1201)
+Highlight the data analysis work done in this repository, including insights or key learnings.
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
-
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+---
+Feel free to explore my repositories and get in touch if you’d like to know more about my work or have a project in mind!
