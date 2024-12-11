@@ -23,7 +23,7 @@ Feel free to reach out! I’m open to opportunities and collaborations.
 ## Projects Showcase
 Here are some of the projects I’m proud of:
 
-### [Project Name 1](https://github.com/ekworthi/planets)
+### [Planets Repository](https://github.com/ekworthi/planets)
 The planets repository is a repository that I worked on in a lab during this data science class that tought me about commiting changes in git.
 
 ### [DATA1201 Repository](https://github.com/ekworthi/DATA1201)
