@@ -15,7 +15,7 @@ Feel free to reach out! I’m open to opportunities and collaborations.
 - **GitHub:** https://github.com/ekworthi
 
 ## Professional Picture
-![Professional Headshot]("C:\Users\eli12\Downloads\20241011_192753.jpg")
+![Professional Headshot](20241011_192753.jpg)
 
 ## Resume
 [Download My Resume (PDF)]("C:\Users\eli12\Downloads\EliWorthingResume.docx.pdf")
