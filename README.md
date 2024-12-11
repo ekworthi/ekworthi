@@ -1,7 +1,7 @@
 # Welcome to My Portfolio Repository
 
 ## About Me
-Hello! I'm Eli Worthing, a third eyar data science student with a passion for creating innovative solutions and learning new technologies. My goal is to develop impactful software that improves lives and contributes to meaningful projects. Outside of coding, I enjoy playing guitar and boxing.
+Hello! I'm Eli Worthing, a third year data science student with a passion for creating innovative solutions and learning new technologies. My goal is to develop impactful software that improves lives and contributes to meaningful projects. Outside of coding, I enjoy playing guitar and boxing.
 
 ## Skills
 - **Programming Languages:** Python, Java, SQL, html, php
