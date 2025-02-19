@@ -14,9 +14,6 @@ Feel free to reach out! I’m open to opportunities and collaborations.
 - **Email:** ekworthi@mtu.edu
 - **GitHub:** https://github.com/ekworthi
 
-## Professional Picture
-![Professional Headshot](20241011_192753.jpg)
-
 ## Resume
 [Download My Resume (PDF)](EliWorthingResume.docx.pdf)
 
